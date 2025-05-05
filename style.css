@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-family: Arial;
+    border: 2px solid red;
+    background-color: antiquewhite;
+    padding: 8px;
+    margin: 16px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    background-color: antiquewhite;
+    border: 2px dotted red;
+    padding: 8px;
+    margin: 16px;
+}
