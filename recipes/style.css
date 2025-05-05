@@ -24,13 +24,8 @@ h1 {
     margin: 50px;
 }
 
-.container img {
-    padding 20px;
-}
-
 .container .instruction {
     width: 500px;
     height: 500px;
-    padding 20px;
     margin-left: 90px;
 }
