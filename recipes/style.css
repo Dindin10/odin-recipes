@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+}
+
+a {
+    border: 2px solid black;  
+}
+
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    border: 2px solid red;
+    padding: 8px;
+}
+
+.container {
+    background-color: antiquewhite;
+    width: auto;
+    height: auto;
+    display: flex;
+    border: 10px dotted yellow;
+    padding: 20px;
+    margin: 50px;
+}
+
+.container img {
+    padding 20px;
+}
+
+.container .instruction {
+    width: 500px;
+    height: 500px;
+    padding 20px;
+    margin-left: 90px;
+}
